@@ -3,6 +3,7 @@
 ![image](https://github.com/Dzhon251/Calculadora_Proyecto/blob/master/Calculadora.png)
 
 Actualizacion de la APP
+
 ![image](https://github.com/Dzhon251/Calculadora_Proyecto/blob/master/calculadora_actualizada.png)
 
 
