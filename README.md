@@ -1,6 +1,6 @@
 # Calculadora_Proyecto
 
-![image](https://github.com/Dzhon251/Calculadora_Proyecto/commit/78709ab1e41000b1ff9210b6ec197e7d5897b56c)
+![image](https://github.com/Dzhon251/Calculadora_Proyecto/blob/master/Calculadora.png)
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
